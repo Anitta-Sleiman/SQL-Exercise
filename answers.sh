@@ -1,3 +1,6 @@
+##Step 1: DB Diagram
+https://drawsql.app/teams/a-sleiman/diagrams/db-d
+
 ### Basics Queries
 SELECT Name FROM students;
 
